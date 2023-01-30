@@ -12,8 +12,11 @@ I am a senior front-end developer. I specializing in React, Javascript and SCSS.
 ---
 
 ## My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=lthong&show_icons=true&locale=en" alt="lthong" width='50%' />
+<img src="https://github-readme-stats.vercel.app/api?username=lthong&show_icons=true&locale=en&theme=react" alt="lthong" width='50%' />
 
+---
+## GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=lthong&theme=github-dark-blue)](https://git.io/streak-stats)
 <!--
 **lthong/lthong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
