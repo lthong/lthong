@@ -4,7 +4,7 @@ I am a senior front-end developer. I specializing in React, Javascript and SCSS.
 一名資深前端工程師，擅長 React, Javascript 及 SCSS 等技術，是活力的主動派並具靈感的解決問題專家。歡迎前往我的[作品集](https://lthong.github.io/react-web-projects)參觀喔！😊
 
 <br/>
-<img width='80%' src="https://skillicons.dev/icons?perline=20&i=react,redux,js,html,css,sass,webpack,nodejs,git,github,jenkins,jest,vscode,)" />
+<img width='90%' src="https://skillicons.dev/icons?perline=20&i=react,redux,js,html,css,sass,webpack,nodejs,git,github,jenkins,jest,vscode,)" />
 
 ---
 <details open> 
