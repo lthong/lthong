@@ -1,4 +1,8 @@
-### Hi there 👋
+#### 😊 Hi, I'm Karen! I am a senior front-end developer. I specializing in React, Javascript and SCSS.Energetic self-starter and inspired problem solver. Welcome to visit my [portfolio](https://lthong.github.io/react-web-projects)！
+
+#### 你好！我是 Karen，一名資深前端工程師，擅長 React, Javascript 及 SCSS 等技術，是活力的主動派並具靈感的解決問題專家。歡迎前往我的[作品集](https://lthong.github.io/react-web-projects)參觀喔！
+
+
 
 <!--
 **lthong/lthong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
