@@ -23,8 +23,8 @@ I am a senior front-end developer. I specializing in React, Javascript and SCSS.
 ---
 <details open> 
   <summary><h3>🌈 GitHub Stats</h3></summary>
-<img src="https://github-readme-stats.vercel.app/api?username=lthong&show_icons=true&locale=en&theme=react" alt="lthong" width='42%' />
-  <img src="https://streak-stats.demolab.com?user=lthong&theme=github-dark-blue" alt="lthong" width='45%' />
+<img src="https://github-readme-stats.vercel.app/api?username=lthong&show_icons=true&locale=en&theme=react" alt="lthong" width='46%' />
+  <img src="https://streak-stats.demolab.com?user=lthong&theme=github-dark-blue" alt="lthong" width='49%' />
 </details>
 
   
