@@ -1,18 +1,22 @@
 <h2 align='center'>Hi,👋 I'm Karen!</h2>
+
+<details open> 
+  <summary><h3>😊 About me</h3></summary>
 <p>
 I am a senior front-end developer. I specializing in React, Javascript and SCSS. Energetic self-starter and inspired problem solver. 
 <br/>
 Welcome to visit my <a href='https://lthong.github.io/react-web-projects'>Portfolio</a>！
 </p>
 <p>
-我是一名資深前端工程師，擅長 React, Javascript 及 SCSS 等技術，是活力的主動派並具靈感的解決問題專家。
+<!-- 我是一名資深前端工程師，擅長 React, Javascript 及 SCSS 等技術，是活力的主動派並具靈感的解決問題專家。 -->
+  資訊領域背景，在前端開發有五年以上的經驗，擅長 React, Javascript 及 SCSS 等技術，負責需求實作、API 串接、畫面動態效果、網站效能優化...等，是活力的主動派並具靈感的解決問題專家。
 <br/>
 歡迎前往我的<a href='https://lthong.github.io/react-web-projects'> 作品集 </a>參觀喔！😊
 </p>
 <p>
 <img width='90%' src="https://skillicons.dev/icons?perline=20&i=react,redux,js,html,css,sass,webpack,nodejs,git,github,jenkins,jest,vscode,)" />
 </p>
-
+</details>
 ---
 <details open> 
   <summary><h3>⭐️ My Projects</h3></summary>
