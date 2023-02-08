@@ -17,7 +17,9 @@ Welcome to visit my <a href='https://lthong.github.io/react-web-projects'>Portfo
 <img width='90%' src="https://skillicons.dev/icons?perline=20&i=react,redux,js,html,css,sass,webpack,nodejs,git,github,jenkins,jest,vscode,)" />
 </p>
 </details>
+
 ---
+
 <details open> 
   <summary><h3>⭐️ My Projects</h3></summary>
   <p align="left">
@@ -29,6 +31,7 @@ Welcome to visit my <a href='https://lthong.github.io/react-web-projects'>Portfo
 </details>
 
 ---
+
 <details open> 
   <summary><h3>🌈 GitHub Stats</h3></summary>
 <img src="https://github-readme-stats.vercel.app/api?username=lthong&show_icons=true&locale=en&theme=react" alt="lthong" width='46%' />
