@@ -9,7 +9,7 @@ Welcome to visit my <a href='https://lthong.github.io/react-web-projects'>Portfo
 </p>
 <p>
 <!-- 我是一名資深前端工程師，擅長 React, Javascript 及 SCSS 等技術，是活力的主動派並具靈感的解決問題專家。 -->
-  嗨，我是Karen，一位前端工程師，擅長使用React、JavaScript 和 SCSS 等技術。負責需求實作、API 串接、畫面動態效果、網站效能優化...等，我擁有成功解決複雜問題的經驗，並喜歡與他人合作，推動技術的發展。
+  嗨，我是Karen，一位前端工程師，擅長使用React、JavaScript 和 SCSS 等技術。負責需求實作、API 串接、畫面動態效果、網站效能優化...等，我擁有成功解決複雜問題的經驗，並喜歡與他人合作，為客戶提供優質的解決方案。
 <!--   嗨，我是Karen，一位前端工程師，擅長使用React、JavaScript和SCSS等技術創建動態、高性能的網站。我擁有成功解決複雜問題的經驗，並喜歡與他人合作，推動技術的發展。無論是優化網站性能、改善用戶體驗還是開發新功能，我總是盡心盡力超越期望，為客戶提供優質的解決方案。 -->
 <br/>
 歡迎前往我的<a href='https://lthong.github.io/react-web-projects'> 作品集 </a>參觀喔！😊
