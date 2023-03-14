@@ -1,7 +1,7 @@
 <h2 align='center'>Hi,👋 I'm Karen!</h2>
 
 <details open> 
-  <summary><h3>😊 About me</h3></summary>
+  <summary><h3>About me</h3></summary>
 <p>
 Hi, I'm Karen, a senior front-end developer with experience creating dynamic, high-performance websites using React, JavaScript, and SCSS. I have a proven track record of delivering innovative solutions to complex problems, and I thrive on collaborating with others to push the boundaries of what's possible. Whether it's optimizing website performance, improving user experience, or developing new features, I am always driven to exceed expectations and deliver exceptional results. 
 <br/>
