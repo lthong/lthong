@@ -21,7 +21,7 @@ Welcome to visit my <a href='https://lthong.github.io/react-web-projects'>Portfo
 
 ---
 
-<details open> 
+<!-- <details open> 
   <summary><h3>⭐️ My Projects</h3></summary>
   <p align="left">
     <a href="https://github.com/lthong/react-web-projects"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=lthong&repo=react-web-projects&theme=dark&hide_border=true&icon_color=F8D866&show_icons=false&show_owner=true" alt="react-web-projects"></a>
@@ -37,7 +37,7 @@ Welcome to visit my <a href='https://lthong.github.io/react-web-projects'>Portfo
   <summary><h3>🌈 GitHub Stats</h3></summary>
 <img src="https://github-readme-stats.vercel.app/api?username=lthong&show_icons=true&locale=en&theme=react" alt="lthong" width='46%' />
   <img src="https://streak-stats.demolab.com?user=lthong&theme=github-dark-blue" alt="lthong" width='49%' />
-</details>
+</details> -->
 
   
 <!--
