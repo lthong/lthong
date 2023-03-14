@@ -19,7 +19,7 @@ Welcome to visit my <a href='https://lthong.github.io/react-web-projects'>Portfo
 </p>
 </details>
 
----
+<!-- --- -->
 
 <!-- <details open> 
   <summary><h3>⭐️ My Projects</h3></summary>
